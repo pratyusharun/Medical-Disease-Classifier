@@ -12,8 +12,19 @@ https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset
 - Random Forest
 - XGBoost
 
-## Best Results
-Random Forest: 83.78%
+## Results
+Random Forest Classifier Performance:
+
+- Accuracy: 84.0%
+- Macro F1 Score: 0.85
+- Weighted F1 Score: 0.84
+- Precision: 0.84
+- Recall: 0.84
+
+Dataset:
+- 700+ disease classes
+- symptom-based multiclass classification
+- rare class filtering applied
 
 ## Preprocessing
 - Missing values filled with 0
